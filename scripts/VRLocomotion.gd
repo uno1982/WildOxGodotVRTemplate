@@ -2,6 +2,7 @@
 extends Node
 class_name VRPhysicsLocomotion
 
+## Update this as an example of a code change in Godot 4.5
 ## A VR locomotion node that uses physics for ground detection and terrain following
 ## Can be attached to an XROrigin3D and used like a Movement Component (Node)
 
